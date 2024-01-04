@@ -1,3 +1,3 @@
 # DigitaleBildverarbeitungCode
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nikolasgross/DigitaleBildverarbeitungCode/main?labpath=NeuronalNets.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nikolasgross/DigitaleBildverarbeitungCode/main?labpath=DeepDiveNeuronalNet.ipynb)
